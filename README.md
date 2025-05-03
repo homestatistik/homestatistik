@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="logo.png" alt="Logo HOMESTATISTIK" width="200"/>
+</p>
+<p align="center">
   <img src="https://yourdomain.com/logo.png" alt="Logo Homestatistik" width="200"/>
 </p>
 
