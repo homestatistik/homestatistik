@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Blog statistik dan analisis data yang mudah dipahami">
+    <title>HOMESTATISTIK</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Beranda</a></li>
+                <li><a href="artikel.html">Artikel</a></li>
+                <li><a href="tentang.html">Tentang</a></li>
+                <li><a href="kontak.html">Kontak</a></li>
+            </ul>
+        </nav>
+        <h1>HOMESTATISTIK</h1>
+        <p>Statistik & Analisis Data yang Mudah Dipahami</p>
+    </header>
+
+    <main>
+        <section class="highlight">
+            <h2>Artikel Unggulan</h2>
+            <article>
+                <h3>5 Konsep Dasar Statistik yang Wajib Kamu Tahu</h3>
+                <p>Statistik adalah ilmu yang sangat berguna dalam kehidupan sehari-hari...</p>
+                <a href="artikel.html">Baca selengkapnya</a>
+            </article>
+        </section>
+
+        <section class="kategori">
+            <h2>Kategori</h2>
+            <ul>
+                <li><a href="#">Statistik Dasar</a></li>
+                <li><a href="#">Analisis Data</a></li>
+                <li><a href="#">Visualisasi</a></li>
+                <li><a href="#">Tutorial Excel/SPSS/R</a></li>
+            </ul>
+        </section>
+
+        <section class="berlangganan">
+            <h2>Berlangganan</h2>
+            <form action="#">
+                <input type="email" placeholder="Masukkan email" required>
+                <button type="submit">Kirim</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 HOMESTATISTIK</p>
+    </footer>
+</body>
+</html>
