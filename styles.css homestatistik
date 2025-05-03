@@ -1,0 +1,68 @@
+/* Reset dasar */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+    background-color: #FFFFFF;
+    color: #333;
+}
+
+header {
+    background-color: #1E3A8A;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 10px 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+}
+
+main {
+    padding: 20px;
+}
+
+.highlight {
+    margin-bottom: 30px;
+}
+
+.kategori ul {
+    list-style: none;
+    padding: 0;
+}
+
+.kategori ul li {
+    margin-bottom: 10px;
+}
+
+.kategori ul li a {
+    text-decoration: none;
+    color: #1E3A8A;
+}
+
+footer {
+    text-align: center;
+    background-color: #E5E7EB;
+    padding: 10px;
+    margin-top: 20px;
+}
