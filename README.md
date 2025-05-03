@@ -1,6 +1,9 @@
 <p align="center">
   <img src="logo.png" alt="Logo HOMESTATISTIK" width="200"/>
 </p>
+<p align="center">
+  <img src="logo.png" alt="Logo HOMESTATISTIK" width="200"/>
+</p>
 
 <h1 align="center">📊 HOMESTATISTIK</h1>
 
